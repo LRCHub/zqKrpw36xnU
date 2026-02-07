@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "シルエット",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2026-02-07T20:13:56.798796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シルエット",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/01_シルエット_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シルエット",
+      "artist": "KANA‐BOON",
+      "has_synced": true,
+      "path": "select/02_シルエット_KANA‐BOON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シルエット",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/03_シルエット_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シルエット (TOKYO MACHINE Remix) - SACRA BEATS Singles",
+      "artist": "KANA-BOON feat. Tokyo Machine",
+      "has_synced": true,
+      "path": "select/04_シルエット_(TOKYO_MACHINE_Remix)_-_SACRA_BEATS_Singles_KANA-BOON_feat._Tokyo_Machine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シルエット (TOKYO MACHINE Remix) - SACRA BEATS Singles",
+      "artist": "KANA-BOON/Tokyo Machine",
+      "has_synced": true,
+      "path": "select/05_シルエット_(TOKYO_MACHINE_Remix)_-_SACRA_BEATS_Singles_KANA-BOON_Tokyo_Machine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シルエット",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/06_シルエット_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シルエット - From THE FIRST TAKE",
+      "artist": "KANA-BOON feat. 山田貴洋",
+      "has_synced": true,
+      "path": "select/07_シルエット_-_From_THE_FIRST_TAKE_KANA-BOON_feat._山田貴洋.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シルエット - From THE FIRST TAKE",
+      "artist": "KANA-BOON feat. 山田 高弘",
+      "has_synced": true,
+      "path": "select/08_シルエット_-_From_THE_FIRST_TAKE_KANA-BOON_feat._山田_高弘.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シルエット",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/09_シルエット_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シルエット (TOKYO MACHINE Remix) - Sakura Chill Beats Singles",
+      "artist": "KANA-BOON/Tokyo Machine",
+      "has_synced": true,
+      "path": "select/10_シルエット_(TOKYO_MACHINE_Remix)_-_Sakura_Chill_Beats_Singles_KANA-BOON_Tokyo_Machine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シルエット (剪影)",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/11_シルエット_(剪影)_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シルエット・ロマンス",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/12_シルエット・ロマンス_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "シルエット・ロマンス",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/13_シルエット・ロマンス_大橋純子.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SILHOUETTE (シルエット)",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/14_SILHOUETTE_(シルエット)_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Silhouette romance (シルエット・ロマンス)",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/15_Silhouette_romance_(シルエット・ロマンス)_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Silhouette romance (karaoke) シルエット・ロマンス(オリジナル・カラオケ)",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/16_Silhouette_romance_(karaoke)_シルエット・ロマンス(オリジナル・カラオケ)_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "シルエット - Silhouette",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/17_シルエット_-_Silhouette_KANA-BOON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シルエット",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_01_シルエット_KANA-BOON.txt"
+    }
+  ]
+}
